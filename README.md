@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SylviaOye
-- 👀 I’m interested in data analysis 
+- 👀 I love working with data analysis 
 - 🌱 I’m currently learning detailed AWS
-- 💞️ I’m looking to collaborate on data-driven projects(power bi, python)
+- 💞️ I’m looking to collaborate on data-driven projects using(power bi, python, MYSQL,     SQL, TABLEU)
 - 📫 How to reach me enyogood1@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am very fun to work with 
