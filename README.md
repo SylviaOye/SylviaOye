@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on data-driven projects using(power bi, python, MYSQL,     SQL, TABLEU)
 - 📫 How to reach me enyogood1@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am very fun to work with 
+- ⚡ Fun fact: I am very fun to work with
+- click this link to view my portfolio
+http://127.0.0.1:5500/index.html
 
 <!---
 SylviaOye/SylviaOye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
